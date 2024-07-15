@@ -5,7 +5,7 @@ All wheels are built from [ROCm/jax](https://github.com/ROCm/jax).
 
 ## Install JAX
 
-1. Access [release page]() and install jaxlib.
+1. Access [release page](https://github.com/h-terao/rocm-jax-wheels/releases) and install jaxlib.
 1. Install jax from PyPI. Note that jax version should be equal to or higher than jaxlib version.<br>
 For example, when you install jaxlib v0.4.30, jax should be installed as follows:
     ```bash
