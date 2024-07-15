@@ -63,7 +63,7 @@ if __name__ == "__main__":
         "--out_dir",
         "-o",
         default="dist",
-        help="jaxlib version to be built.",
+        help="Output directory to save the built wheel.",
     )
 
     args = parser.parse_args()
